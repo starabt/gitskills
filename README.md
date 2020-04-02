@@ -1,3 +1,7 @@
 # gitskills
 learn some skills of git 
-Creating  new branch is quick & simple.
+<<<<<<< HEAD
+Creating  new branch is quick AND simple.
+=======
+Creating  new branch is quick AND simple.
+>>>>>>> feature1
